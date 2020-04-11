@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "usP4vCrvNo6TO+olNc+sElDH6IdFNOLi4hyPG+p9+cDYnSZi281+fT3lv4U4JT7Clh/nSwOJagjCm34T7mbOdw==",
+  "success": true,
+  "projectFilePath": "c:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\SamuaraiApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vladimir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
