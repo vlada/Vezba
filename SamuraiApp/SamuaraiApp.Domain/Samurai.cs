@@ -17,5 +17,7 @@ namespace SamuaraiApp.Domain
         public List<SamuraiBattle> SamuraiBattles { get; set; }
         public Horse Horse { get; set; }
         //commit 1 iz master
+        //commit 2 iz master
+
     }
 }
