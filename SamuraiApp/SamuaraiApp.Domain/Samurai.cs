@@ -19,5 +19,8 @@ namespace SamuaraiApp.Domain
         //commit 1 iz master
         //commit 2 iz master
 
+        //commit 1 iz branche
+        //commit 2 iz branche
+        //commit 3 iz branche
     }
 }
