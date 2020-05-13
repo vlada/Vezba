@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\SamuaraiApp.Domain.csproj": {}
+    "C:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\SamuaraiApp.Domain.csproj": {}
   },
   "projects": {
-    "c:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\SamuaraiApp.Domain.csproj": {
+    "C:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\SamuaraiApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\SamuaraiApp.Domain.csproj",
+        "projectUniqueName": "C:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\SamuaraiApp.Domain.csproj",
         "projectName": "SamuaraiApp.Domain",
-        "projectPath": "c:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\SamuaraiApp.Domain.csproj",
+        "projectPath": "C:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\SamuaraiApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
-        "outputPath": "c:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\obj\\",
+        "outputPath": "C:\\vlado\\GIT\\Vezba\\SamuraiApp\\SamuaraiApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

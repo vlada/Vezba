@@ -1,0 +1,15 @@
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp2.0\SamuraiApp.Data.deps.json
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp2.0\SamuraiApp.Data.dll
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp2.0\SamuraiApp.Data.pdb
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp2.0\SamuaraiApp.Domain.dll
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp2.0\SamuaraiApp.Domain.pdb
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp2.0\SamuraiApp.Data.csprojAssemblyReference.cache
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp2.0\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp2.0\SamuraiApp.Data.AssemblyInfoInputs.cache
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp2.0\SamuraiApp.Data.AssemblyInfo.cs
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp2.0\SamuraiApp.Data.csproj.CopyComplete
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp2.0\SamuraiApp.Data.dll
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp2.0\SamuraiApp.Data.pdb
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp2.0\SamuraiApp.Data.runtimeconfig.json
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp2.0\SamuraiApp.Data.runtimeconfig.dev.json
+C:\vlado\GIT\Vezba\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp2.0\SamuraiApp.Data.genruntimeconfig.cache

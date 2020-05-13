@@ -10,7 +10,6 @@ C:\Users\Vladimir\source\repos\SamuraiApp\SamuaraiApp.Domain\obj\Debug\netstanda
 c:\vlado\GIT\Vezba\SamuraiApp\SamuaraiApp.Domain\bin\Debug\netstandard2.0\SamuaraiApp.Domain.deps.json
 c:\vlado\GIT\Vezba\SamuraiApp\SamuaraiApp.Domain\bin\Debug\netstandard2.0\SamuaraiApp.Domain.dll
 c:\vlado\GIT\Vezba\SamuraiApp\SamuaraiApp.Domain\bin\Debug\netstandard2.0\SamuaraiApp.Domain.pdb
-c:\vlado\GIT\Vezba\SamuraiApp\SamuaraiApp.Domain\obj\Debug\netstandard2.0\SamuaraiApp.Domain.csprojAssemblyReference.cache
 c:\vlado\GIT\Vezba\SamuraiApp\SamuaraiApp.Domain\obj\Debug\netstandard2.0\SamuaraiApp.Domain.csproj.CoreCompileInputs.cache
 c:\vlado\GIT\Vezba\SamuraiApp\SamuaraiApp.Domain\obj\Debug\netstandard2.0\SamuaraiApp.Domain.AssemblyInfoInputs.cache
 c:\vlado\GIT\Vezba\SamuraiApp\SamuaraiApp.Domain\obj\Debug\netstandard2.0\SamuaraiApp.Domain.AssemblyInfo.cs
